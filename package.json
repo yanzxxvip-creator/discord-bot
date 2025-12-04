@@ -1,0 +1,16 @@
+{
+  "name": "discord-tempvoice-pro",
+  "version": "1.0.0",
+  "description": "Advanced TempVoice Discord Bot",
+  "main": "index.js",
+  "author": "Yanz / Gamers Cikss",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs-extra": "^11.2.0",
+    "dotenv": "^16.3.1"
+  }
+}
